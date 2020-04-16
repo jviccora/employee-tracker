@@ -34,7 +34,7 @@ let init = () => {
                 type: "list",
                 message: questions[3],
                 name: "license",
-                choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
+                choices: ["APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
             },
             {
                 type: "input",
@@ -108,7 +108,7 @@ ${data.usage}
 
 ## License
 
-This project is licensed under the MIT license.
+
   
 ## Contributing
 
